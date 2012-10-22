@@ -27,6 +27,8 @@
             }
         }
 
+        private void 
+
         public int GetLineCount()
         {
             return lines.Length;
